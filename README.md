@@ -2,9 +2,7 @@ _**21 School/Ecole 42** Project_
 
 # libft
 
-Problem statement: [en.subject.pdf](https://github.com/mkoch21/libft/blob/main/en.subject.pdf)
-
-Create a library with following finctions:
+My own C library reproducing the following standard functions:
 ```
 • isalpha 
 • isdigit 
